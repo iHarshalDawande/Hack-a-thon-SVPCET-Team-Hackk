@@ -1,4 +1,4 @@
-I. Introduction
+# I. Introduction
 
 A Medical Record is a file containing records and documents about the patient containing identity,
 examination, medication, other medical treatment in health care facilities for outpatients,
