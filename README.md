@@ -17,3 +17,5 @@ and medication schedules, as well as the ability to alert emergency responders i
 emergency. The goal is to create a user-friendly and secure solution that improves the overall
 management and coordination of a person's health care, and make it easily accessible in any
 situation
+
+[[https://www.figma.com/file/FOc3WfufLnIBppoBl0iUe2/Medical-Record?node-id=0%3A1&t=Chg3a7MtHMylds9O-1]]
