@@ -1,5 +1,5 @@
 Architecture
-The NFC-based EMR architecture can be seen in Fig [22]. The EMR application on 
+The NFC-based EMR architecture can be seen in Fig. The EMR application on 
 the doctor's phone can be used to read and change the EMR content, while the EMR 
 application on the patient can only be used for reading. When the patient first comes to 
 the doctor and the doctor does not have the patient’s EMR then the doctor needs to copy 
